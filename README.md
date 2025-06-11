@@ -23,3 +23,7 @@ Include digits? (y/n): y
 Include special characters? (y/n): y
 
 Generated Password: jB7@Tg!Qw2#L
+
+
+**output**
+![Image](https://github.com/user-attachments/assets/5f6d8ea2-abfb-4d7f-92bc-7a8935e5f306)
