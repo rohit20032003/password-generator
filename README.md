@@ -27,4 +27,4 @@ Generated Password: jB7@Tg!Qw2#L
 
 **output**
 
-https://github.com/user-attachments/assets/5f6d8ea2-abfb-4d7f-92bc-7a8935e5f306
+![image](https://github.com/user-attachments/assets/e8081f30-8103-47a7-aa41-2b832e864a81)
